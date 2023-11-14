@@ -1,4 +1,11 @@
 @font-face {
+  font-family: "Creattion Demo";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Creattion Demo"),
+    url("./assests/fonts/Creattion-Demo.otf") format("woff");
+}
+@font-face {
   font-family: "Agustina Regular";
   font-style: normal;
   font-weight: normal;
